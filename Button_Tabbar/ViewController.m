@@ -22,6 +22,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     [self.playBtn verticalImageAndTitle:6];
     [self.meBtn verticalImageAndTitle:16];
+    NSLog(@"%@",self.meBtn);
     
 }
 
